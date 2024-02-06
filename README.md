@@ -5,11 +5,11 @@ Eine zusätzliche Addeckung sorgt für einen effektiven Spritzschutz.
 Die Teile wurden auf einem Prusa MK3 gedruckt. Zum befestigen des Spritzschutzes sind in den Blinkeraufnahmen M4 Inserts eingelassen.
 
 Zusätzliches Befestigungsmaterial:
-|2 |Zylinderschraube mit Innensechskant  |M6 x 25   |ISO 4762 |
-|2 |Zylinderschraube mit Innensechskant  |M4 x 10   |ISO 4762 |
-|2 |M6 Karrosseriescheibe                |D18 x 1,5 | |
-|2 |M4 Karrosseriescheibe                |D12 x 1   | |
-|2 |Gewindeeinsatz                       |M4        | |
+| 2 | Zylinderschraube mit Innensechskant  | M6 x 25   | ISO 4762 |
+| 2 | Zylinderschraube mit Innensechskant  | M4 x 10   | ISO 4762 |
+| 2 | M6 Karrosseriescheibe                | D18 x 1,5 |  |
+| 2 | M4 Karrosseriescheibe                | D12 x 1   |  |
+| 2 | Gewindeeinsatz                       | M4        |  |
 
 
 ![Adaption](/images/adaption.jpg)
