@@ -4,6 +4,8 @@ Eine zusätzliche Addeckung sorgt für einen effektiven Spritzschutz.
 
 Die Teile wurden auf einem Prusa MK3 gedruckt. Zum befestigen des Spritzschutzes sind in den Blinkeraufnahmen M4 Inserts eingelassen.
 
+Abstand der Blinker zueinander ca. 215 mm (Innenmaß).
+
 Zusätzliches Befestigungsmaterial:
 
 |Anzahl|Bezeichnung                        |Maße     |DIN/EN  |
