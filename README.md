@@ -1,4 +1,4 @@
-# Kennzeichenhalter Tenere 700
+# Erweiterung Kennzeichenhalter Tenere 700
 Grundlage ist der KEDO-T7-Kennzeichenhalter. Die Basis des Halters wird mit Aufnahmen versehen, an denen die originalen Blinker (MJ 2023, LED) befestigt werden können. 
 Eine zusätzliche Addeckung sorgt für einen effektiven Spritzschutz.
 
