@@ -4,6 +4,6 @@ Eine zusätzliche Addeckung sorgt für einen effektiven Spritzschutz.
 
 Die Teile wurden auf einem Prusa MK3 gedruckt. Zum befestigen des Spritzschutzes sind in den Blinkeraufnahmen M4 Inserts eingelassen.
 
-![Adaption](/images/adaption.png)
+![Adaption](/images/adaption.jpg)
 
-![vorher-nachher](/images/heck1.png)
+![vorher-nachher](/images/heck1.jpg)
