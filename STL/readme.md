@@ -5,7 +5,7 @@ Angaben für PrusaSlicer
 * Nozzel 0,4 mm
 * Schichthöhe 0,2 mm
 * Infill 100%
-* Stützen: Nur für Stützverstärker
+* Stützen: Stützen nur auf dem Druckbett
 
 **Bracket LH/RH**
 * PETG
