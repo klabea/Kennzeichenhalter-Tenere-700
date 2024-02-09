@@ -18,4 +18,4 @@
 
 ## UPDATE 2024-02-09
 ![Adaption](../images/mod-cover-02.png)
-**Cover-02:** wegen Optimierung des Spritzschutzes die seitliche Rippen geschlossen und Kragen zum Kennzeichenhalter verlängert
+**Cover-02:** wegen Optimierung des Spritzschutzes die seitlichen Rippen geschlossen und Kragen zum Kennzeichenhalter verlängert
