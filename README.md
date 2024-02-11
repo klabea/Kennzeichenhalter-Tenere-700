@@ -19,7 +19,7 @@ Zusätzliches Befestigungsmaterial:
 |2     |Gewindeeinsatz                     |M4       | |
 
 
-![Adaption](/images/adaption.jpg)
+![Adaption](/images/adaption_02.png)
 
 ![vorher-nachher](/images/heck1.jpg)
 
