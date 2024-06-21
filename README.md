@@ -14,6 +14,7 @@ Zusätzliches Befestigungsmaterial:
 |:---: | ---                               | ---     | ---    |
 |2     |Zylinderschraube mit Innensechskant|M6 x 25  |ISO 4762|
 |2     |Zylinderschraube mit Innensechskant|M4 x 12  |ISO 4762|
+|4     |Zylinderschraube mit Innensechskant|M3 x 10  |ISO 4762|
 |2     |M6 Karrosseriescheibe              |ø18 x 1,5| |      
 |2     |M4 Karrosseriescheibe              |ø12 x 1  | |  
 |2     |Gewindeeinsatz                     |M4       | |
