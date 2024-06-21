@@ -28,5 +28,4 @@ Zusätzliches Befestigungsmaterial:
 
 ![Cover](/images/heck3.jpg)
 
-> [!Achtung]
-> **Bracket LH/RH:** Ab der Version 03 kann der Steg gegen Missbrauch (abknicken) über zwei M3x10 Zylinderschrauben abgesichert werden. Verschraubung direkt in den Kunststoff bis zum Anschlag.
+
