@@ -23,3 +23,6 @@
 ## UPDATE 2024-06-21
 ![Adaption](../images/mod-cover-03.png)
 **Cover-03:** Weitere Optimierung des Spritzschutzes (Abwärtskompatibel).
+
+![Adaption](../images/mod-bracket-03.png)
+**Bracket-03:** Optimierung des Spritzschutzes. Aufnahme M3 hinzu, wg. Absicherung gegen Missbrauch (Abwärtskompatibel).
